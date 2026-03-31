@@ -60,8 +60,8 @@ pip install stegano
 ### 🔄 Clone the Repository
 
 ```bash
-git clone https://github.com/onkar1143/Image_Steganography_App_Using_Python.git
-cd Image_Steganography_App_Using_Python
+git clone https://github.com/onkar1143/Image_Steganography_App_Using_Python-main.git
+cd Image_Steganography_App_Using_Python-main
 ```
 
 ### ▶️ Run the Application
@@ -90,11 +90,14 @@ python ImageCloak.py
 
 ## 📸 Screenshots
 
-| Main Interface                                                                                                              | Encoding Process                                                                                                            | Decoding Process                                                                                                            |
-| --------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- |
-| ![](https://github.com/onkar1143/Image_Steganography_App_Using_Python/assets/93814546/989d4447-ec4b-43d5-9322-bd599cbfc6f9) | ![](https://github.com/onkar1143/Image_Steganography_App_Using_Python/assets/93814546/dc60f4d2-4635-4d12-a378-79e6a564153b) | ![](https://github.com/onkar1143/Image_Steganography_App_Using_Python/assets/93814546/ea90a532-9754-4153-a415-46d9d16381e0) |
+### 🖥 Main Interface
+![Main Interface](./assets/screenshot1.png)
 
----
+### 🔐 Encoding Process
+![Encoding](./assets/screenshot2.png)
+
+### 🔓 Decoding Process
+![Decoding](./assets/screenshot3.png)
 
 ## 💡 Future Enhancements
 
