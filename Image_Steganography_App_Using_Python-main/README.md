@@ -1,24 +1,31 @@
-# 🖼️ Image Steganography App Using Python
+# 🔐 Image Steganography App
 
-![License](https://img.shields.io/github/license/alok-2002/Image_Steganography_App_Using_Python)
-![Last Commit](https://img.shields.io/github/last-commit/alok-2002/Image_Steganography_App_Using_Python)
-![Repo Size](https://img.shields.io/github/repo-size/alok-2002/Image_Steganography_App_Using_Python)
-![Stars](https://img.shields.io/github/stars/alok-2002/Image_Steganography_App_Using_Python)
-![Forks](https://img.shields.io/github/forks/alok-2002/Image_Steganography_App_Using_Python)
-![Issues](https://img.shields.io/github/issues/alok-2002/Image_Steganography_App_Using_Python)
+👨‍💻 Developed by Onkar Shelvane  
+🔗 GitHub: https://github.com/onkar1143
+
+![License](https://img.shields.io/github/license/onkar1143/Image_Steganography_App_Using_Python-main)
+![Last Commit](https://img.shields.io/github/last-commit/onkar1143/Image_Steganography_App_Using_Python-main)
+![Repo Size](https://img.shields.io/github/repo-size/onkar1143/Image_Steganography_App_Using_Python-main)
+![Stars](https://img.shields.io/github/stars/onkar1143/Image_Steganography_App_Using_Python-main)
+![Forks](https://img.shields.io/github/forks/onkar1143/Image_Steganography_App_Using_Python-main)
+![Issues](https://img.shields.io/github/issues/onkar1143/Image_Steganography_App_Using_Python-main)
 ![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)
 ![Platform](https://img.shields.io/badge/platform-windows%20%7C%20linux%20%7C%20mac-lightgrey)
 ![Python Version](https://img.shields.io/badge/python-3.x-blue.svg)
 
-![App Screenshot](https://github.com/Alok-2002/Image_Steganography_App_Using_Python/assets/93814546/31f0b3b5-830f-4f49-a32e-591889840123)
-
+![App Screenshot](./assets/screenshot.png)
+## 📌 Description
+A Python-based application that hides secret messages inside images using steganography techniques.
 ---
-
-## 📌 Overview
+## 🛠 Tech Stack
+- Python
+- Tkinter
+- Pillow
+- ## 📌 Overview
 
 The **Image Steganography App** is a Python-based desktop utility that enables secure message concealment within digital images using steganography principles. This project leverages the `tkinter` library for an intuitive graphical interface and the `stegano` package for data embedding and extraction.
 
-Developed by [Alok Sharma](https://github.com/alok-2002), this tool is ideal for learning about data hiding techniques and experimenting with basic steganography in a user-friendly environment.
+👨‍💻 Developed by [Onkar Shelvane](https://github.com/onkar1143), this tool is ideal for learning about data hiding techniques and experimenting with basic steganography in a user-friendly environment.
 
 ---
 
@@ -53,7 +60,7 @@ pip install stegano
 ### 🔄 Clone the Repository
 
 ```bash
-git clone https://github.com/Alok-2002/Image_Steganography_App_Using_Python.git
+git clone https://github.com/onkar1143/Image_Steganography_App_Using_Python.git
 cd Image_Steganography_App_Using_Python
 ```
 
@@ -85,7 +92,7 @@ python ImageCloak.py
 
 | Main Interface                                                                                                              | Encoding Process                                                                                                            | Decoding Process                                                                                                            |
 | --------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- |
-| ![](https://github.com/Alok-2002/Image_Steganography_App_Using_Python/assets/93814546/989d4447-ec4b-43d5-9322-bd599cbfc6f9) | ![](https://github.com/Alok-2002/Image_Steganography_App_Using_Python/assets/93814546/dc60f4d2-4635-4d12-a378-79e6a564153b) | ![](https://github.com/Alok-2002/Image_Steganography_App_Using_Python/assets/93814546/ea90a532-9754-4153-a415-46d9d16381e0) |
+| ![](https://github.com/onkar1143/Image_Steganography_App_Using_Python/assets/93814546/989d4447-ec4b-43d5-9322-bd599cbfc6f9) | ![](https://github.com/onkar1143/Image_Steganography_App_Using_Python/assets/93814546/dc60f4d2-4635-4d12-a378-79e6a564153b) | ![](https://github.com/onkar1143/Image_Steganography_App_Using_Python/assets/93814546/ea90a532-9754-4153-a415-46d9d16381e0) |
 
 ---
 
@@ -113,7 +120,9 @@ To contribute:
 
 ## 📄 License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the MIT License.
+
+Original project by Alok Sharma, modified by Onkar Shelvane.
 
 ---
 
@@ -121,8 +130,8 @@ This project is licensed under the [MIT License](LICENSE).
 
 Feel free to connect for queries or collaborations:
 
-**📧 Email:** [sharmaalok02gwl@gmail.com](mailto:sharmaalok02gwl@gmail.com)
-**👨‍💻 GitHub:** [@alok-2002](https://github.com/alok-2002)
+**📧 Email:** [onkarshelvane1143@gmail.com](mailto:onkarshelvane1143@gmail.com)
+**👨‍💻 GitHub:** [onkar1143](https://github.com/onkar1143)
 
 ---
 
