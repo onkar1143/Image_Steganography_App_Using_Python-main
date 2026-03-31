@@ -13,7 +13,7 @@
 ![Platform](https://img.shields.io/badge/platform-windows%20%7C%20linux%20%7C%20mac-lightgrey)
 ![Python Version](https://img.shields.io/badge/python-3.x-blue.svg)
 
-![App Screenshot](./Hidden.png)
+![App Screenshot](./Image_Steganography_App_Using_Python-main/Hidden.png)
 ## 📌 Description
 A Python-based application that hides secret messages inside images using steganography techniques.
 ---
